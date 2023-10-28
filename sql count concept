@@ -1,0 +1,7 @@
+#sql count concept
+
+count(*) = it gives the count of all the rows including null value
+
+count(1) = it is similar to count(*) and it gives the count of all the rows including null value (we can put any value in place of 1 and it will give same output)
+
+count(column_name) = it will give the count of all the rows of that specific column excluding null value
